@@ -1,4 +1,4 @@
-![Hi, I'm Maxim](banner.png)
+![Hi, I'm Maxim](baner.png)
 
 # 👋 About me
 I’m a full-stack developer specializing in React and Node.js. I enjoy creating web applications that are both functional and user-friendly. I have experience in both frontend and backend development, building seamless integrations between client-side and server-side technologies.
